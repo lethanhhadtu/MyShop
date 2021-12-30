@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace MyShop.Core.Models
 {
+    //f
     public class Product: BaseEntity
     {
         [StringLength(20)]
